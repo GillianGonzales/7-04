@@ -3,9 +3,9 @@
 -- main.lua
 --
 -- Created By Gillian Gonzales
--- Created On April 23 2018
+-- Created On April 24 2018
 --
--- This code will have gravity to a character 
+-- This code will make a jump button,respawn and a boundry wall
 -----------------------------------------------------------------------------------------
 
 -- Adding Physics
